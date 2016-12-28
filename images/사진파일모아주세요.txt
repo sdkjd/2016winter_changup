@@ -1,0 +1,4 @@
+사진  파일 올릴 떄
+![](사진 파일 링크)
+ex) images 폴더에 사진 파일 올리고 그 주소를 올리면 됩니다  
+https://github.com/sdkjd/2016winter_changup/new/master/images/예시.jpg
