@@ -2,7 +2,7 @@
  
 ## 캐즘의 정의
 ### 캐즘이란 무엇인가
-Chasm : 지층사이의 큰 틈이나 협곡이 생긴 것제 
+Chasm : 지층사이의 큰 틈이나 협곡이 생긴 것(Geological)
 제프리 무어의 캐즘 : 처음에는 사업이 잘 되는 것처럼 보이다가 더 이상 발전하지 못하고 마치 깊은 수렁에 빠진 듯한 심각한 정체 상태에 이르는 것
 ![](https://github.com/sdkjd/2016winter_changup/blob/master/images/사용자모형.png)
 ### 캐즘의 정의
